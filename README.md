@@ -11,9 +11,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=md-badges&theme=tokyonight)](https://github.com/inttter/md-badges)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=colorflow&theme=tokyonight)](https://github.com/inttter/md-badges)
 
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white&style=for-the-badge)](#)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/accmpy)
+[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white&style=for-the-badge)](https://www.last.fm/user/intter)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/xboxtheman86)
 
 # What I'm Listening to 🎧🎵:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xboxtheman86&cover_image=true&theme=novatorem&show_offline=false&background_color=8000ff&interchange=true&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=xboxtheman86&redirect=true)
