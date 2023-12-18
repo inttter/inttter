@@ -13,7 +13,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=colorflow&theme=tokyonight)](https://github.com/inttter/md-badges)
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/intermed)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/accmpy)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/xboxtheman86)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/intter)
