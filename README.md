@@ -1,16 +1,15 @@
 <div align="center">
-  
-![1](https://github.com/inttter/inttter/assets/73017070/a615dd54-fdb3-4e35-a975-6e06fd09ef99)
-![2](https://github.com/inttter/inttter/assets/73017070/7ab164e1-fe63-471f-8ac8-9e3620843417)
-![3](https://github.com/inttter/inttter/assets/73017070/52c4eadd-0981-42d3-a41b-549d18509480)
 
+<img src="https://github.com/inttter/inttter/assets/73017070/a5284c13-23bf-4627-87a2-b36e34507786" alt="jinxcat" width="250"> 
 
-[![Badge](https://l0n17svzi2oy.runkit.sh)](https://github.com/Leo40Git/OneShot-Textbox-Maker)
+me btw
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inttter&theme=tokyonight" alt="mystreak"/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=md-badges&theme=tokyonight)](https://github.com/inttter/md-badges)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=colorflow&theme=tokyonight)](https://github.com/inttter/md-badges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=inttter&repo=colorflow&theme=tokyonight)](https://github.com/inttter/colorflow)
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/intermed)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/xboxtheman86)
