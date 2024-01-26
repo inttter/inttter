@@ -1,5 +1,22 @@
-<div align="center">
+<img align="right" src=".github/assets/Cat.gif" width="50%" height="50%" />
 
-<img src="https://github.com/inttter/inttter/assets/73017070/a5284c13-23bf-4627-87a2-b36e34507786" alt="jinxcat" width="250"> 
+## ✨ stuff
 
-me btw
+currently working on:
+
+<a href="https://github.com/inttter/md-badges">**md-badges**</a> - The definitive badge list for your projects.
+
+<a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a> - Find badges without ever leaving your terminal.
+
+## 📌 recent activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
+
+## ✉️ contact
+
+you can email me @ [**me@inttter.com**](mailto:me@inttter.com)
