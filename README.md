@@ -8,6 +8,8 @@ currently working on:
 
 <a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a> - Find badges without ever leaving your terminal.
 
+<a href="https://github.com/inttter/create-ps">**create-ps**</a> - Creates the foundations for an NPM package.
+
 ## ✉️ contact
 
 you can email me @ [**me@inttter.com**](mailto:me@inttter.com)
