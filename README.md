@@ -1,6 +1,6 @@
 <img align="right" src=".github/assets/Cat.gif" width="50%" height="50%" />
 
-## ✨ stuff
+## 🥽 stuff
 
 currently working on:
 
@@ -10,6 +10,9 @@ currently working on:
 
 <a href="https://github.com/inttter/create-ps">**create-ps**</a> - Creates the foundations for an NPM package.
 
+<a href="https://github.com/inttter/discid">**discid**</a> - A simple command-line tool to check a user's Discord status using Lanyard.
+
 ## ✉️ contact
 
-you can email me @ [**me@inttter.com**](mailto:me@inttter.com)
+* email @ [**me@inttter.com**](mailto:me@inttter.com) 🌏
+* socials @ [**https://inttter.com**](https://inttter.com) 🔗
