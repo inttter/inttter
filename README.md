@@ -4,9 +4,9 @@
 
 currently working on:
 
-<a href="https://github.com/inttter/md-badges">**md-badges**</a> - The definitive badge list for your projects.
+<a href="https://github.com/inttter/md-badges">**md-badges**</a> - An extensive list of Shields.io badges.
 
-<a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a> - Find badges without ever leaving your terminal.
+<a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a> - An extensive CLI tool to find Shields.io badges without needing to leaving the terminal.
 
 <a href="https://github.com/inttter/create-ps">**create-ps**</a> - Creates the foundations for an NPM package.
 
