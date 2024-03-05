@@ -15,4 +15,4 @@ currently working on:
 ## ✉️ contact
 
 * email @ [**me@inttter.com**](mailto:me@inttter.com) 🌏
-* socials @ [**https://inttter.com**](https://inttter.com) 🔗
+* socials @ [**https://iinter.me**](https://iinter.me) 🔗
