@@ -14,5 +14,5 @@ currently working on:
 
 ## ✉️ contact
 
-* email @ [**me@inttter.com**](mailto:me@inttter.com) 🌏
+* email @ [**hi@iinter.me**](mailto:hi@iinter.me) 🌏
 * socials @ [**https://iinter.me**](https://iinter.me) 🔗
